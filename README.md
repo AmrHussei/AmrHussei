@@ -1,4 +1,4 @@
-[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4mQV8Hok5I-Y_Jzfo0aginPN9SRj7s4Ilmg&usqp=CAU)](https://rishavchanda.io)
+[![MasterHead](https://dbwgapw6amg93.cloudfront.net/wp-content/uploads/2019/01/Hero-7-Most-Useful-Mobile-Apps-for-Developers.jpg?fit=2309%2C1154&strip=all)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Amr Hussein</h1>
 <h3 align="center">Junior Flutter Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://d3tqq64j8blxdp.cloudfront.net/wp-content/uploads/20220511102912/React-Native_Hero-1.webp">
@@ -26,4 +26,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amrhussei&show_icons=true&locale=en" alt="amrhussei" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amrhussei&theme=dark" alt="amrhussei" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amrhussei&theme=default" alt="amrhussei" /></p>
