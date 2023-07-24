@@ -1,7 +1,7 @@
 [![MasterHead](https://dbwgapw6amg93.cloudfront.net/wp-content/uploads/2019/01/Hero-7-Most-Useful-Mobile-Apps-for-Developers.jpg?fit=2309%2C1154&strip=all)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Amr Hussein</h1>
 <h3 align="center">Junior Flutter Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://d3tqq64j8blxdp.cloudfront.net/wp-content/uploads/20220511102912/React-Native_Hero-1.webp">
+<img align="center" alt="Coding" width="400" src="https://d3tqq64j8blxdp.cloudfront.net/wp-content/uploads/20220511102912/React-Native_Hero-1.webp">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amrhussei" alt="amrhussei" /></a> </p>
 
